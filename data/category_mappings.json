@@ -1,0 +1,105 @@
+{
+    "Setting": [
+        "school",
+        "workplace",
+        "historical",
+        "isekai",
+        "urban fantasy"
+    ],
+    "Demographic": [
+        "adult cast"
+    ],
+    "Relationship": [
+        "romance",
+        "harem",
+        "reverse harem",
+        "love polygon",
+        "boys love",
+        "girls love",
+        "love status quo"
+    ],
+    "Action": [
+        "action",
+        "martial arts",
+        "super power",
+        "military"
+    ],
+    "Comedy": [
+        "comedy",
+        "parody",
+        "slice of life"
+    ],
+    "Drama": [
+        "drama",
+        "psychological",
+        "slice of life"
+    ],
+    "Fantasy": [
+        "fantasy",
+        "mythology",
+        "mahou shoujo",
+        "anthropomorphic"
+    ],
+    "ScienceFiction": [
+        "sci-fi",
+        "mecha",
+        "isekai"
+    ],
+    "Lifestyle": [
+        "otaku culture",
+        "gourmet",
+        "cgdct",
+        "childcare",
+        "iyashikei"
+    ],
+    "Supernatural": [
+        "supernatural",
+        "vampire",
+        "mythology"
+    ],
+    "Adventure": [
+        "adventure",
+        "isekai"
+    ],
+    "Sports": [
+        "sports",
+        "racing"
+    ],
+    "Psychological": [
+        "psychological",
+        "mystery",
+        "suspense"
+    ],
+    "Ecchi": [
+        "ecchi",
+        "erotica",
+        "hentai"
+    ],
+    "Professional": [
+        "medical",
+        "military",
+        "idols (female)",
+        "workplace"
+    ],
+    "Historical": [
+        "historical",
+        "samurai"
+    ],
+    "Game": [
+        "strategy game",
+        "video game"
+    ],
+    "Artistic Style": [
+        "award winning",
+        "gore"
+    ],
+    "Thematic": [
+        "survival",
+        "reincarnation",
+        "time travel",
+        "crossdressing",
+        "magical sex shift",
+        "villainess",
+        "music"
+    ]
+}
